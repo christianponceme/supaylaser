@@ -28,7 +28,7 @@ export default function Footer() {
               <a href="https://www.instagram.com/supaylaser/" target="_blank" className="text-white/60 hover:text-yellow-500 transition-colors">
                 <Instagram className="h-5 w-5" />
               </a>
-              <a href="https://www.tiktok.com/@supaylaser" target="_blank" className="text-white/60 hover:text-yellow-500 transition-colors">
+              <a href="https://www.tiktok.com/@franciscacruzcuro3" target="_blank" className="text-white/60 hover:text-yellow-500 transition-colors">
                 <SiTiktok className="h-5 w-5" />
               </a>
             </div>
